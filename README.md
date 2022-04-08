@@ -1,4 +1,4 @@
-# events-app
+# isdm-project
 
 ## Project setup
 ```
